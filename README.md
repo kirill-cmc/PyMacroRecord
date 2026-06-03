@@ -30,6 +30,32 @@ PyMacroRecord works with a GUI made using tkinter, making it easier for users to
 - Mouse Movement, click, and keyboard recording.
 - Smooth recording of the mouse.
 
+  <!-- AD -->
+---
+## Sponsors
+
+✅ ZennoPoster — Build web automation without coding
+
+[![ZennoPoster](https://help.zennolab.com/upload/u/bf/bf8b24b3d082.png)](https://zennolab.com/en/products/zennoposter/?utm_source=github&utm_campaign=XXX)
+
+### Build browser automation without coding and automate browser workflows in minutes.
+
+| Use Case | Description |
+|---------------------|---|
+| 🔍 **Scraping & Data Collection** | Extract and process web data |
+| ⚙️ **DevOps Automation** | Automating repetitive DevOps tasks through web interfaces |
+| 📝 **Account Workflows** | Forms, registrations and account workflows |
+| 🤖 **AI & LLM Integrations** | AI-powered automation and LLM integrations |
+| 🧪 **QA & Testing** | Browser testing and validation |
+| 💰 **Bots & SaaS** | Building and monetizing automation bots and SaaS tools |
+
+🆓 Free Lite version available  
+⚡ No-code / low-code automation  
+🔗 [Try ZennoPoster Lite Free](https://zennolab.com/en/products/zennoposter/?utm_source=github&utm_campaign=XXX)
+
+---
+<!-- /AD -->
+
 # How does this work?
 To start recording, you simply have to press the red button\
 From there, you can move your mouse, click, and type on your keyboard, and everything will be recorded. (You can choose what will be recorded.)
